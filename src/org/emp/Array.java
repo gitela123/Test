@@ -3,6 +3,12 @@ package org.emp;
 import java.util.ArrayList;
 
 public class Array {
+	
+	public void ela() {
+System.out.println("gggg");
+	}
+	
+	
 	public static void main(String[] args) {
 		int a[]= new int [4];
 		a[0]=10;
